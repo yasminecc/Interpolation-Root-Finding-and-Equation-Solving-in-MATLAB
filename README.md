@@ -1,4 +1,4 @@
-# Numerical Methods – Homework 3
+# Interpolation, Root Finding, and Equation Solving in MATLAB
 
 This MATLAB project includes three exercises focused on key numerical analysis methods.
 
